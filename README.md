@@ -1,2 +1,9 @@
 # Stay-Sober-Backend
-Stay Sober backend system
+Backend System for Stay Sober Application
+
+## System Architecture
+
+## Class Diagram
+
+## Entity Relationship Diagram
+
